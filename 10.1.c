@@ -1,4 +1,4 @@
-//This program is written by Dhruv Kotadiya(22CE054)
+//This program is written by Dhruv Kotadiya(22CE054).
 #include<stdio.h>
 struct BookDetail
 {
